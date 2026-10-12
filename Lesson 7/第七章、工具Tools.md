@@ -59,7 +59,7 @@ else:
 AI 调用工具的回答： [{'name': 'get_weather', 'args': {'city': '广州'}, 'id': 'call_5sWon9ZBeW95Id6AXQ2EPIvH', 'type': 'tool_call'}]
 ```
 
-![image.png](/image.png)
+![image.png](image.png)
 
 # 2、工具的定义
 
