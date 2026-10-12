@@ -99,7 +99,7 @@ from IPython.display import Image, display
 display(Image(agent.get_graph().draw_mermaid_png()))
 ```
 
-![image.png](/image.png)
+![image.png](image.png)
 
 ## 2、传入模型对象创建Agent
 
@@ -410,7 +410,7 @@ from IPython.display import Image, display
 display(Image(agent.get_graph().draw_mermaid_png()))
 ```
 
-![image.png](/image%201.png)
+![image.png](image%201.png)
 
 # 4、绑定多个工具
 
@@ -507,7 +507,7 @@ rprint(response["messages"][-1].content)
 位获得诺贝尔文学奖的韩国作家，也是第18位女性获奖者。
 ```
 
-![image.png](/image%202.png)
+![image.png](image%202.png)
 
 # 6、Agent高级用法
 
@@ -545,7 +545,7 @@ agent = create_agent(
 
 ## 6.4、Agent结构化输出
 
-![image.png](/image%203.png)
+![image.png](image%203.png)
 
 ### 6.4.1、ProviderStrategy
 
