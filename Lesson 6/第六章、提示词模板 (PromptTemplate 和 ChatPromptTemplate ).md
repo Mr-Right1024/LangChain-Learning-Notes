@@ -6,7 +6,7 @@
 
 # 主要类型与使用方式
 
-## **1. 基础文本模板 (`PromptTemplate`)**适用于纯文本生成模型，通过占位符（如 `{variable}`）将变量替换为具体的字符串。
+## 1. 基础文本模板 (`PromptTemplate`)适用于纯文本生成模型，通过占位符（如 `{variable}`）将变量替换为具体的字符串。
 
 ```python
 import os
